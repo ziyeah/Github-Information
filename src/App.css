@@ -1,5 +1,19 @@
 .App {
   text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#inputBox{
+  margin-top: 20px;
+  width: 50%;
+  padding: 15px;
+  max-width: 350px;
+  min-width: 180px;
+  border-radius: 15px;
+  border: gray solid 1px;
+  outline:none;
 }
 
 .App-logo {

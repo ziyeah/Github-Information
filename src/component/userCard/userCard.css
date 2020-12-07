@@ -1,0 +1,32 @@
+.cardContainer{
+  background-color: rgb(200, 200, 200);
+  border-radius: 15px;
+  margin-top: 20px;
+  width: 500px;
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  /* justify-content: space-around; */
+  max-width: 350px;
+  min-width: 180px;
+}
+
+.CardDetail{
+  background-color: rgb(200, 200, 200);
+  border-radius: 15px;
+  margin-top: 20px;
+  width: 500px;
+  padding: 15px;
+  max-width: 350px;
+  min-width: 180px;
+}
+
+.cardChild{
+  margin-left: 80px;
+}
+
+.avatarImage{
+  position: relative;
+  left: 20px;
+  border-radius: 15%;
+}
